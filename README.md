@@ -7,7 +7,7 @@ Este repositorio presenta la implementación de algoritmos genéticos aplicados 
 
 ## 👥 Integrantes del equipo
 - Flavio
-- (Agrega aquí los nombres de tus compañeros)
+- Miguel
 
 ---
 
