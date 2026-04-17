@@ -96,5 +96,4 @@ Los algoritmos genéticos representan una herramienta poderosa para resolver pro
 
 ---
 
-##  Nota
-Este proyecto fue desarrollado como parte de una actividad académica del curso de aprendizaje de máquina.
+
