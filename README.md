@@ -8,8 +8,9 @@ En este proyecto se desarrollaron tres aplicaciones principales de los AG dentro
 ---
 
 ## 👥 Integrantes del equipo
-- Flavio
--
+- Flavio zapana ticona
+- Miguel Adolfo Leiva Flores
+- jhon Cristian Quispe Carita
 
 ---
 
