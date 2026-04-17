@@ -1,6 +1,6 @@
-# 🧬 Algoritmos Genéticos aplicados a Machine Learning
+#  Algoritmos Genéticos aplicados a Machine Learning
 
-## 📌 Descripción
+##  Descripción
 Este repositorio presenta la implementación de algoritmos genéticos (AG) aplicados a problemas de optimización en el campo del aprendizaje de máquina. Los algoritmos genéticos son técnicas inspiradas en la evolución natural que permiten encontrar soluciones óptimas mediante procesos de selección, cruzamiento y mutación.
 
 En este proyecto se desarrollaron tres aplicaciones principales de los AG dentro del machine learning.
@@ -11,10 +11,11 @@ En este proyecto se desarrollaron tres aplicaciones principales de los AG dentro
 - Flavio zapana ticona
 - Miguel Adolfo Leiva Flores
 - jhon Cristian Quispe Carita
+- Jose Armando Aquise Colque
 
 ---
 
-## 🎯 Objetivo del proyecto
+##  Objetivo del proyecto
 Aplicar algoritmos genéticos para mejorar modelos de aprendizaje de máquina en tres áreas clave:
 
 - Selección de características (Feature Selection)
@@ -23,7 +24,7 @@ Aplicar algoritmos genéticos para mejorar modelos de aprendizaje de máquina en
 
 ---
 
-## 🧠 Metodología
+##  Metodología
 En los tres ejemplos desarrollados se siguió el ciclo básico de un algoritmo genético:
 
 1. **Inicialización de la población**: generación de soluciones aleatorias.
@@ -36,15 +37,15 @@ En los tres ejemplos desarrollados se siguió el ciclo básico de un algoritmo g
 
 ---
 
-## 📊 Ejemplos desarrollados
+##  Ejemplos desarrollados
 
 ### 🔹 1. Feature Selection
 Uso de algoritmos genéticos para seleccionar las características más relevantes de un dataset.
 
-📁 Archivo:
+ Archivo:
 - feature_selection.ipynb
 
-📈 Resultado:
+ Resultado:
 Se reduce la cantidad de variables y se mejora el rendimiento del modelo al eliminar información irrelevante.
 
 ---
@@ -52,10 +53,10 @@ Se reduce la cantidad de variables y se mejora el rendimiento del modelo al elim
 ### 🔹 2. Hyperparameter Optimization
 Aplicación de algoritmos genéticos para encontrar la mejor combinación de hiperparámetros de un modelo.
 
-📁 Archivo:
+ Archivo:
 - hyperparameter_optimization.ipynb
 
-📈 Resultado:
+ Resultado:
 Se logra optimizar automáticamente el modelo, obteniendo mejores resultados sin ajuste manual.
 
 ---
@@ -63,15 +64,15 @@ Se logra optimizar automáticamente el modelo, obteniendo mejores resultados sin
 ### 🔹 3. Neuroevolution
 Uso de algoritmos genéticos para optimizar la arquitectura de redes neuronales.
 
-📁 Archivo:
+ Archivo:
 - neuroevolution.ipynb
 
-📈 Resultado:
+ Resultado:
 Se obtiene una arquitectura de red neuronal más eficiente en términos de desempeño.
 
 ---
 
-## ⚙️ Tecnologías utilizadas
+##  Tecnologías utilizadas
 - Python
 - Google Colab
 - Scikit-learn
@@ -80,7 +81,7 @@ Se obtiene una arquitectura de red neuronal más eficiente en términos de desem
 
 ---
 
-## 🚀 Ejecución
+##  Ejecución
 Los notebooks pueden ejecutarse directamente en Google Colab o en un entorno local con Python instalado.
 
 Pasos:
@@ -90,10 +91,10 @@ Pasos:
 
 ---
 
-## 🧠 Conclusión
+##  Conclusión
 Los algoritmos genéticos representan una herramienta poderosa para resolver problemas de optimización en machine learning. Permiten explorar grandes espacios de búsqueda de manera eficiente y encontrar soluciones cercanas al óptimo sin necesidad de evaluar todas las combinaciones posibles.
 
 ---
 
-## 📌 Nota
+##  Nota
 Este proyecto fue desarrollado como parte de una actividad académica del curso de aprendizaje de máquina.
